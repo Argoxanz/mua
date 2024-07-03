@@ -21,8 +21,6 @@
 
 <img src="https://github.com/Argoxanz/mua/assets/147998192/e58ffc6c-1a9a-4191-9e91-c32516cb2c15" width="200">
 
-<img src="https://github.com/Argoxanz/mua/assets/147998192/861f800a-d1e8-46c0-a6cb-b542078408c5" width="200">
-
 <img src="https://github.com/Argoxanz/mua/assets/147998192/929fffa9-70cf-4ba2-8382-709531a8b350" width="200">
 
 <img src="https://github.com/Argoxanz/mua/assets/147998192/14ca4ff3-8ed2-4860-bc64-b1d9c4553f53" width="200">
